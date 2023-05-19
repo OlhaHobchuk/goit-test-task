@@ -1,0 +1,29 @@
+.tweetsPageContainer {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.arrowContainer {
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: 30px;
+}
+
+.backArrow {
+  width: 30px;
+  height: 30px;
+  fill: #471ca9;
+}
+
+.backArrow:hover,
+.backArrow:focus {
+  fill: #453274;
+}
+
+.tweetsCardsContainer {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
+}

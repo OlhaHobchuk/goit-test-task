@@ -1,0 +1,14 @@
+.homeContainer {
+  min-height: 100vh;
+  padding: 20px;
+  background-color: #5736a3;
+}
+.mainImageContainer {
+  border-radius: 20px;
+  overflow: hidden;
+}
+.mainImage {
+  display: block;
+  width: 100%;
+  height: auto;
+}
